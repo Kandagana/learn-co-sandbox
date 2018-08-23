@@ -1,0 +1,29 @@
+header {
+  background: green;
+  min-width: 400px;
+  width: 300px;
+  position: absolute;
+  top: 0;
+  left; 0;
+}
+
+nav {
+  background: purple;
+}
+
+article{
+  background: orange;
+  float:left;
+
+}
+
+aside{
+  background: blue;
+  float: left;
+}
+
+footer{
+  clear:left;
+}
+
+/* Extra small devices (phones 600px and down) */
